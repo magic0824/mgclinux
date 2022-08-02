@@ -3,7 +3,7 @@
 <p>English - 英語</p>
 <a href="https://github.com/magic0824/mgclinux/blob/main/README.ja.md">日本語 - Japanese</a>
 
-## <span style="color: red; ">* This project is under development.</span>
+## <span style="color: red">* This project is under development.</span>
 
 A lightweight Linux operating system that can run on low-spec computers
 
